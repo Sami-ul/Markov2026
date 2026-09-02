@@ -1,0 +1,39 @@
+# Assignment prompts and written submissions stay local.
+[Hh][Ww]*/
+*.pdf
+*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Generated plots and scratch work.
+outputs/
+output/
+tmp/
+*.mat
+
+# Python environments, caches, and local configuration.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+
+# MATLAB generated files.
+*.asv
+*.autosave
+slprj/
+codegen/
+*.mex*
+
+# Editors and operating systems.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
