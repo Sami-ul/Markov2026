@@ -27,8 +27,9 @@ t = np.arange(1, T + 1)
 m = (t >= 100) & (t <= 10_000)
 print(S1[[100, 1000, 10000]])
 def fit_beta(S):
-    x = np.log10(t[m])
-    y = np.log10(S[1:][m])
+    keep = m & (S[1:] > 0)
+    x = np.log10(t[keep])
+    y = np.log10(S[1:][keep])
     slope = np.polyfit(x, y, 1)[0]
     return -slope
 
