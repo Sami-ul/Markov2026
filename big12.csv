@@ -87,17 +87,17 @@ season,week,date,home,home_pts,away,away_pts,neutral,completed
 2026,5,2026-10-03,Iowa State,45,West Virginia,42,0,1
 2026,5,2026-10-04,Arizona State,19,Baylor,55,0,1
 2026,5,2026-10-04,Arizona,34,Cincinnati,7,0,1
-2026,6,2026-10-10,BYU,NaN,Iowa State,NaN,0,0
-2026,6,2026-10-10,Oklahoma State,NaN,UCF,NaN,0,0
-2026,6,2026-10-10,West Virginia,NaN,Arizona,NaN,0,0
-2026,6,2026-10-10,Kansas State,NaN,Houston,NaN,0,0
-2026,6,2026-10-11,Utah,NaN,Kansas,NaN,0,0
-2026,7,2026-10-17,Colorado,NaN,Utah,NaN,0,0
+2026,6,2026-10-10,BYU,24,Iowa State,10,0,1
+2026,6,2026-10-11,Utah,41,Kansas,24,0,1
+2026,6,2026-10-10,Oklahoma State,42,UCF,28,0,1
+2026,6,2026-10-10,Kansas State,16,Houston,35,0,1
+2026,6,2026-10-10,West Virginia,31,Arizona,52,0,1
 2026,7,2026-10-17,West Virginia,NaN,Cincinnati,NaN,0,0
 2026,7,2026-10-17,Kansas State,NaN,Kansas,NaN,0,0
 2026,7,2026-10-17,Texas Tech,NaN,Arizona State,NaN,0,0
 2026,7,2026-10-17,Baylor,NaN,TCU,NaN,0,0
 2026,7,2026-10-17,Houston,NaN,Oklahoma State,NaN,0,0
+2026,7,2026-10-18,Colorado,NaN,Utah,NaN,0,0
 2026,8,2026-10-24,UCF,NaN,BYU,NaN,0,0
 2026,8,2026-10-24,Cincinnati,NaN,Texas Tech,NaN,0,0
 2026,8,2026-10-24,Utah,NaN,Houston,NaN,0,0
